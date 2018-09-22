@@ -1,11 +1,16 @@
 _repo: Under-Rocking-Skies_55721
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55721-h/images/cover.jpg
 creator:
   author:
     agent_name: Tooker, L. Frank
     gutenberg_agent_id: '48474'
     url: http://www.gutenberg.org/2009/agents/48474
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55721#Under-Rocking-Skies
 gutenberg_issued: '2017-10-09'
 gutenberg_type: Text
 identifiers:
